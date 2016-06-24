@@ -66,10 +66,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/78B1QrB1OS4'
 title: 'Trânsito+gentil | #DeixeaOgraemCasa - Making of'
-datePublished: '2016-06-24T18:14:48.803Z'
-dateModified: '2016-06-24T18:14:30.443Z'
-starred: false
+datePublished: '2016-06-24T18:33:57.041Z'
+dateModified: '2016-06-24T18:33:56.595Z'
 sourcePath: _posts/2016-06-24-transitogentil-or-deixeaograemcasa-making-of.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
