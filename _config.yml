@@ -1,14 +1,26 @@
-layout_spectrum: 0.8105426412075758
-typography_spectrum: 0.12403027294203639
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.3655749384779483
-  lightness: 0.26245998917147517
   saturation: 0.09521071356721222
-  rhythmicContrast: 0.5207323839422315
+  brandStrength: 0.4688507
+  lightness: 0.2624599891714752
   brandColors:
     - '#2E0927'
     - '#D90000'
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+  rhythmicContrast: 0.5207323839422315
+typography_spectrum: 0.2486573
+layout_spectrum: 0.8105426412075758
 name: Maria Fernanda Coronel
