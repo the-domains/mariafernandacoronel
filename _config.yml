@@ -1,16 +1,16 @@
-typography_spectrum: 0.2486573
+typography_spectrum: 0.03484741039574146
 color:
-  saturation: 0.09521071356721222
-  brandStrength: 0.4688507
-  lightness: 0.2624599891714752
+  saturation: 0.18597297370433807
+  brandStrength: 0.3214159708004445
+  lightness: 0.05232097930274904
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
-  rhythmicContrast: 0.5207323839422315
-layout_spectrum: 0.8105426412075758
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  rhythmicContrast: 0.8526857988908887
+layout_spectrum: 0.8420417963061482
 name: Maria Coronel
 collections:
   - index:
