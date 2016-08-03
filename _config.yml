@@ -1,3 +1,17 @@
+typography_spectrum: 0.2486573
+color:
+  saturation: 0.09521071356721222
+  brandStrength: 0.4688507
+  lightness: 0.2624599891714752
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  rhythmicContrast: 0.5207323839422315
+layout_spectrum: 0.8105426412075758
+name: Maria Coronel
 collections:
   - index:
       path: /
@@ -10,18 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.09521071356721222
-  brandStrength: 0.4688507
-  lightness: 0.2624599891714752
-  brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
-  rhythmicContrast: 0.5207323839422315
-typography_spectrum: 0.2486573
-layout_spectrum: 0.8105426412075758
-name: Maria Fernanda Coronel
 title: Seguros
+description: Além do que se vê...
